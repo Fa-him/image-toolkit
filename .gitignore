@@ -1,0 +1,16 @@
+# Python / build
+__pycache__/
+*.pyc
+.env
+.venv/
+build/
+dist/
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
